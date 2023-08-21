@@ -1,0 +1,52 @@
+StockVisionary GitHub Repository Terms of Use
+
+Please read these terms of use ("Terms") carefully before using the StockVisionary GitHub repository ("Repository"). These Terms outline the terms and conditions under which you ("User," "You") may access and use the content, materials, and resources provided in the Repository. By accessing or using the Repository, you agree to be bound by these Terms.
+
+Limited Personal and Non-Commercial Use:
+The content, code, and resources available in the Repository are strictly designated for personal, non-commercial, and educational purposes. You explicitly acknowledge and commit to refrain from using the Repository for any commercial activities, including but not limited to financial gain, investment ventures, or trading operations.
+
+Stock Market Disclaimer:
+Investing or trading in the stock market involves inherent risks, including the potential loss of capital. The Repository is not intended to provide financial advice or recommendations. You acknowledge that the stock market is subject to volatility, fluctuations, and financial uncertainties. The Repository does not guarantee any financial outcomes.
+
+Non-Endorsement of Financial Advice or Profit Intent:
+It is emphasized that the Repository does not provide financial advice, stock predictions, or endorsements for profit-oriented activities. You acknowledge and concur that the Repository's content is solely for educational and informational purposes, and any decisions made based on such content are exclusively your responsibility.
+
+Alpha Vantage API Usage Agreement:
+In the event that the Repository incorporates the utilization of the Alpha Vantage API for the collection of stock market data, you hereby explicitly consent and commit to employing the API strictly in accordance with the terms and conditions stipulated by Alpha Vantage. Furthermore, such usage is to be confined exclusively to personal, non-commercial, and educational purposes.
+
+Limited Liability and Absence of Guarantees:
+The creators and contributors of the Repository hereby disclaim any warranties or guarantees concerning the accuracy, completeness, or reliability of the information or code furnished. Your understanding is solicited that any usage of the Repository is conducted at your sole risk, and the creators and contributors shall not bear any liability for resultant damages, losses, or liabilities.
+
+Adherence to Applicable Laws and Regulations:
+You hereby pledge to abide by all relevant laws, regulations, and third-party terms of use while accessing and employing the Repository. You are strictly prohibited from participating in activities that contravene the law or infringe upon the rights of other individuals or entities.
+
+The intellectual property rights ("IPR") pertaining to logos, images, and associated visual assets within the StockVisionary GitHub repository ("Repository") are subject to the following terms and conditions:
+
+-Ownership: The logos, images, and visual assets present in the Repository are the exclusive intellectual property of the creators and contributors. These IPRs include but are not limited to, trademarks, copyrights, and design rights.
+
+-Non-Modification: You are prohibited from modifying, altering, adapting, or creating derivative works based on the logos, images, and visual assets unless expressly authorized by the creators and contributors.
+
+-Attribution: If you choose to use or display the logos, images, or visual assets outside the Repository, you must provide appropriate attribution to the creators and contributors and acknowledge their ownership.
+
+-No Commercial Use: Any commercial usage, including but not limited to distribution, sale, or incorporation into products or services intended for profit, is strictly prohibited without prior written consent from the creators and contributors.
+
+-Protection of IPR: You are required to respect and protect the IPR of the logos, images, and visual assets. Unauthorized usage that infringes upon these IPRs may result in legal action.
+
+-Enforcement: The creators and contributors reserve the right to enforce their IPRs over the logos, images, and visual assets. In case of any violations, appropriate legal measures may be taken.
+
+Security Obligations and Prohibitions:
+You pledge to refrain from engaging in any unauthorized activities that might compromise the Repository's security or functionality, or threaten its integrity. Prohibited activities encompass unauthorized access attempts, distribution of malicious software, or any acts detrimental to the Repository's well-being or its users' interests.
+
+Indemnification and Liability Limitation:
+You concur to indemnify and absolve the creators and contributors of the Repository from any claims, damages, losses, liabilities, costs, or expenses arising due to your use of the Repository in contravention of these Terms or applicable laws.
+
+Terms Modification Notification:
+The creators and contributors retain the right to modify or revise these Terms at their discretion, and such modifications will be promptly communicated. It is your responsibility to periodically review these Terms and remain informed of any changes.
+
+Governing Law and Dispute Resolution:
+These Terms shall be governed by and interpreted in accordance with the laws of [Your Jurisdiction]. Any disputes arising from or relating to these Terms shall be exclusively adjudicated in the courts of [Your Jurisdiction].
+
+By accessing and utilizing the StockVisionary GitHub Repository, you overtly acknowledge having read, comprehended and consented to these Terms. If you disagree with these Terms, you are advised to abstain from accessing the Repository and utilizing its materials.
+
+
+Last Updated: 21/08/23
