@@ -32,3 +32,8 @@ ts = TimeSeries(key=api_key, output_format='pandas')
 # Retrieve historical daily stock price data for the past 30 years
 data, meta_data = ts.get_daily(symbol=symbol, outputsize='full')
 data = data.tail(30*252)  # Consider approximately 252 trading days per year
+
+# Save data to CSV file
+data.to_csv(f'{symbol}_historical_data.csv')
+
+
