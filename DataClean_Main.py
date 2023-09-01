@@ -20,3 +20,8 @@ X = data[features]
 
 # Target variable: Use 'Close' price
 y = data['Close']
+
+# Data scaling- Just Check
+scaler = StandardScaler()
+X_train_scaled = scaler.fit_transform(X_train)
+X_test_scaled = scaler.transform(X_test)
