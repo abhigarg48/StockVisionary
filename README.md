@@ -5,23 +5,18 @@
 Welcome to StockVisionary, an open-source initiative designed to provide an immersive educational experience in stock market analysis. With an unwavering commitment to learning, this project empowers individuals with the skills to comprehend, interpret, and effectively visualize stock market data.
 
 
-Features of StockVisionary:
+## Features of StockVisionary:
+
+*   Data Collection: Gather historical stock price data using Alpha Vantage API.
+*   Data Preprocessing: Clean, transform, and scale data for modelling.
+*   Feature Engineering: Create lagged features to capture temporal patterns.
+*   Model Selection: Choose optimal models, including Long Short-Term Memory (LSTM) networks.
+*   Hyperparameter Tuning: Optimize model hyperparameters for improved performance.
+*   Visualization: Visualize predicted vs. actual stock prices for analysis.
 
 
--Data Collection: Gather historical stock price data using Alpha Vantage API.
 
--Data Preprocessing: Clean, transform, and scale data for modelling.
-
--Feature Engineering: Create lagged features to capture temporal patterns.
-
--Model Selection: Choose optimal models, including Long Short-Term Memory (LSTM) networks.
-
--Hyperparameter Tuning: Optimize model hyperparameters for improved performance.
-
--Visualization: Visualize predicted vs. actual stock prices for analysis.
-
-
-Alpha Vantage API Integration:
+## Alpha Vantage API Integration
 
 
 In the pursuit of enriched learning, StockVisionary seamlessly integrates the Alpha Vantage API to acquire stock market data.
@@ -33,7 +28,7 @@ This integration adheres rigorously to Alpha Vantage's terms of use, ensuring AP
 Kindly Refer at [Alpha Vantage Documentation](https://www.alphavantage.co/documentation/) , [Terms 0f Service](https://www.alphavantage.co/terms_of_service/)
 
 
-Legal Information:
+## Legal Information
 
 
 Please note that StockVisionary is intended solely for educational purposes. 
@@ -44,7 +39,7 @@ Engagement in stock market activities carries inherent financial risks. The proj
 Before involvement, kindly review the comprehensive Terms and Conditions provided. Your utilization of StockVisionary signifies acknowledgement and agreement to these terms.
 
 
-Comprehensive Understanding:
+## Comprehensive Understanding
 Familiarize yourself with the in-depth Terms and Conditions. By accessing and engaging with StockVisionary, you acknowledge your agreement with these terms.
 
 
